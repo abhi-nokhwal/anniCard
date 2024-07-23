@@ -27,3 +27,8 @@
   });
 
 }());
+
+// function Open1{
+//   document.getElementById()
+
+// }
